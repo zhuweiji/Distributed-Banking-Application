@@ -1,0 +1,10 @@
+CLIENT_IP            =  "127.0.0.1"
+CLIENT_PORT          =  22222
+
+SERVER_IP            =  "127.0.0.1"
+SERVER_PORT          =  12740
+
+TIMEOUT_MILLISECONDS = 5000
+MSG_MAX_ATTEMPT      =  5
+PASSWORD_LENGTH      =  6
+MESSAGE_MAX_LEN      = 3000
