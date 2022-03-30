@@ -28,8 +28,6 @@ public class Marshal {
 
 		 Class classOfObject = obj.getClass();
 		 Field[] fieldList = classOfObject.getDeclaredFields();
-		
-	    
 
 		 for (Field field : fieldList)
 		 {

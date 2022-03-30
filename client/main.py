@@ -1,6 +1,3 @@
-SERVER_IP = get_server_ip()
-SERVER_PORT = get_server_port()
-
 if __name__ == "__main__":
     WELCOME_MESSAGE = "Welcome To SCSE Bank."
     MENU_MESSAGE = """----------------------------Bank Menu------------------------------------\n 

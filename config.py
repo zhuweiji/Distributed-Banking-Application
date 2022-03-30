@@ -1,7 +1,7 @@
 CLIENT_IP            =  "127.0.0.1"
 CLIENT_PORT          =  22222
 
-SERVER_IP            =  "127.0.0.1"
+SERVER_IP            =  "192.168.0.181"
 SERVER_PORT          =  12740
 
 TIMEOUT_MILLISECONDS = 5000
